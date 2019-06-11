@@ -1,2 +1,3 @@
 # poop-diary
 For save progress in poop diary
+This application is ...
